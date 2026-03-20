@@ -14,14 +14,13 @@ const card = document.getElementById("card");
 const text = `Minal 'Aidin wal-Faizin 🤍
 Mohon maaf lahir batin yaa
 
-Allo sahabatku yang aku sayamgi, semoga di hari yang fitri ini kamu mendapatkan banyak keberkahan dan kebahagiaan.
+Allo sahabatku yang aku sayangi, semoga di hari yang fitri ini kamu mendapatkan banyak keberkahan dan kebahagiaan.
 Semoga segala dosa kita diampuni dan kita bisa memulai lembaran baru dengan hati yang bersih.
 
-Aku juga mau ngucapin terima kasih banyak karena udah jadi bagian dari hidupku,
-udah nemenin aku di saat susah dan senang, 
-dan selalu ada buat aku. Aku bersyukur banget punya sahabat sepertimu.
+Aku juga mau ngucapin terima kasih,
+udah nemenin aku di saat susah dan senang, Aku bersyukur banget punya sahabat sepertimu.
 
-Keliatan banget AInya AJR WKWKWK :v yaa selamat hari raya idul fitri ya, salam abdurrafi :P
+Keliatan banget AInya AJR :v yaa selamat hari raya idul fitri ya, salam abdurrafi :P
 
 Karena aku udah ngucapin, Mau yaa kasih aku thr 😊😊😊😊🙏🙏🙏`;
 
